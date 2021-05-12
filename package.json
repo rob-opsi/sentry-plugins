@@ -12,7 +12,7 @@
     "babel-preset-react": "^6.16.0",
     "compression-webpack-plugin": "^0.3.0",
     "extract-text-webpack-plugin": "webpack/extract-text-webpack-plugin#cbd4690",
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "lodash-webpack-plugin": "^0.11.4",
     "node-libs-browser": "^0.5.2",
     "uglify-js": "2.4.x",
